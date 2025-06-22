@@ -151,6 +151,6 @@ DELETE http://localhost:3000/feedbacks/:id - Remover feedback
 GET http://localhost:3000/feedbacks/collaborator/:collaboratorId - Obter feedbacks por colaborador
 
 # ✉️ Contato
-Dev Renan - [prwm.vercel.app]
+Dev Renan - [https://prwm.vercel.app]
 
 Link do Projeto: [https://github.com/renawmontanari/pulseBackend]
